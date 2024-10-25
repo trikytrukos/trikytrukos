@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on DWES/DAW<br><br>🌱 I’m currently learning JavaScript, Angular<br><br>🌱 I’m currently learning PHP, Django
+🔭 I’m currently working on Expenzzo<br><br>🌱 I’m currently learning TypeScript, React<br><br>🌱 I’m currently learning FastApi
 
 
 # 💻 Tech Stack:
